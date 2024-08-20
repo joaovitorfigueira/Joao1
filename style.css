@@ -1,5 +1,3 @@
-body {
-    background-color: #ffffff
-    }
- <title>Document</title>
-     <link rel=”stylesheet” href=”style.css”>
+.cabecalho{
+    background-color: black;
+}
